@@ -55,7 +55,7 @@ body {
 .realheader {
   color:white;
   height: 610px;
-  background-image: url("/Users/oscarpachano/Desktop/Ironhack/PreWork/NPM clone/lab-html-module-exercise-master/starter-code/images/city-scape.svg");
+  background-image: url("./images/city-scape.svg");
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: -22px;
@@ -191,7 +191,7 @@ body {
 
 .npm {
   background-size: cover;
-  background-image: url("/Users/oscarpachano/Desktop/Ironhack/PreWork/NPM clone/lab-html-module-exercise-master/starter-code/images/forklift.svg");
+  background-image: url("./images/forklift.svg");
   height: 520px;
   margin-top: -20px; 
   color: white;
